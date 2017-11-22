@@ -1,6 +1,6 @@
 ## Motivation 
 
- - Requested by Kenneth Andersson for displaying sensor data, measured by a raspberry pi.
+ - Requested by Kenneth Andersson for displaying sensor data, sensor data sent from a raspberry pi.
  
 ## Build status
  - Functionality: Simple table displaying dynamical data from rest web service.
