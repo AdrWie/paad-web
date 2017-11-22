@@ -7,7 +7,17 @@
  - Desired functionality: 
  		- Display data using google charts etc. 
 		- Add dynamic user mail notification.
-		- Control user given data
+		- Control given data by user input.
+    
+## Credits
+ - Adrian Wieslander - Junior Software Developer/Student
+ - Patricio Morales - Junior Software Developer/Student
+ 
+## License
+ - Intern - Software Developer (Student) CC By Patricio Morales
+ - Intern - Software Developer (Student) CC By Adrian Wieslander
+ - B3IT Innovation AB CC By Johnne Adermark
+ - B3IT Innovation AB CC By Kenneth Andersson
 ----------------------------------------------------------------------------------------------------------------------------------------
 # PaadWeb
 
