@@ -1,3 +1,14 @@
+## Motivation 
+
+ - Requested by Kenneth Andersson for displaying sensor data, measured by a raspberry pi.
+ 
+## Build status
+ - Functionality: Simple table displaying dynamical data from rest web service.
+ - Desired functionality: 
+ 		- Display data using google charts etc. 
+		- Add dynamic user mail notification.
+		- Control user given data
+----------------------------------------------------------------------------------------------------------------------------------------
 # PaadWeb
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.4.4.
@@ -25,3 +36,6 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+
+
+
